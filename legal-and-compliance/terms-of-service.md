@@ -1,10 +1,8 @@
 # Terms of Service
 
-Last Updated: [Insert Date]
+Last Updated: 12, August, 2024
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the TON Pools website and application (the "Service") operated by TON Pools ("us", "we", or "our").
-
-[INSERT LEGAL DOCUMENT SEAL OR ICON]
 
 ## 1. Acceptance of Terms
 
@@ -44,7 +42,7 @@ Your use of the Service is at your sole risk. The Service is provided on an "AS 
 
 ## 10. Governing Law
 
-These Terms shall be governed and construed in accordance with the laws of [Insert Jurisdiction], without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of \[Insert Jurisdiction], without regard to its conflict of law provisions.
 
 ## 11. Changes
 
@@ -52,8 +50,6 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 ## 12. Contact Us
 
-If you have any questions about these Terms, please contact us at legal@tonpools.com.
-
-[INSERT CONTACT INFORMATION]
+If you have any questions about these Terms, please contact us at legal@savezapp.co
 
 By using TON Pools, you acknowledge that you have read and understood these Terms of Service and agree to be bound by them.

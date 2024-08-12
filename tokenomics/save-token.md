@@ -1,16 +1,16 @@
-# $SAVE Token Information
+# $SAVE Token
 
 The $SAVE token is the native utility token of the TON Pools ecosystem. For comprehensive and up-to-date information about the $SAVE token, please visit the official $SAVE token website:
 
-**[https://savez.com](https://savez.com)**
+[**https://savez.com**](https://savez.com)
 
 ## Quick Overview
 
-- **Name**: SAVE
-- **Symbol**: $SAVE
-- **Blockchain**: TON
+* **Name**: SAVE
+* **Symbol**: $SAVE
+* **Blockchain**: TON
 
-## Key Information Available on savez.com
+## Key Information Available on savezapp.co
 
 1. **Token Utility**
 2. **Token Distribution**
@@ -24,13 +24,13 @@ The $SAVE token is the native utility token of the TON Pools ecosystem. For comp
 
 Within the TON Pools ecosystem, $SAVE token is used for:
 
-- Staking to boost prize draw chances
-- Voting on protocol upgrades and new features
-- Accessing exclusive high-yield pools
+* Staking to boost prize draw chances
+* Voting on protocol upgrades and new features
+* Accessing exclusive high-yield pools
 
 For specific details on using $SAVE within TON Pools, please refer to our [User Guide](../user-guide/using-save-token.md).
 
----
+***
 
 For the most accurate and current information regarding the $SAVE token, always refer to [https://savez.com](https://savez.com).
 

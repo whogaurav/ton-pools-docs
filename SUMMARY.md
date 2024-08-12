@@ -22,7 +22,6 @@
 
 ## User Guide
 
-* [Creating an Account](user-guide/creating-an-account.md)
 * [Depositing TON](user-guide/depositing-ton.md)
 * [Participating in Prize Draws](user-guide/participating-in-prize-draws.md)
 * [Withdrawing Funds](user-guide/withdrawing-funds.md)

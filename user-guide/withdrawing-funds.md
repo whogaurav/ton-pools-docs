@@ -20,8 +20,6 @@ Before initiating a withdrawal, ensure that:
 * You have a sufficient balance to withdraw (considering any minimum withdrawal limits)
 * You're aware of any lockup periods that may apply to your deposits
 
-\[INSERT CHECKLIST INFOGRAPHIC]
-
 ### Step-by-Step Withdrawal Process
 
 1. **Log into Your Account**
@@ -29,12 +27,9 @@ Before initiating a withdrawal, ensure that:
 2. **Navigate to Withdrawals**
    * Go to your account dashboard
    * Click on the "Withdraw" button or navigate to the "Withdrawals" section
-3.  **Select Withdrawal Amount**
-
-    * Enter the amount you wish to withdraw
-    * The system will display your available balance
-
-    \[INSERT SCREENSHOT OF WITHDRAWAL INTERFACE]
+3. **Select Withdrawal Amount**
+   * Enter the amount you wish to withdraw
+   * The system will display your available balance
 4. **Choose Destination Wallet**
    * Select the TON wallet where you want to receive your funds
    * Double-check the wallet address to ensure accuracy
@@ -50,8 +45,6 @@ Before initiating a withdrawal, ensure that:
 8. **Check Your Wallet**
    * Once processed, check your destination wallet for the received funds
 
-\[INSERT WITHDRAWAL PROCESS FLOWCHART]
-
 ### Withdrawal Timeframes
 
 * **Standard Withdrawals**: Typically processed within 1-24 hours
@@ -65,8 +58,6 @@ Note: Timeframes are estimates and can vary based on network conditions and secu
 * **Minimum Withdrawal**: \[Insert minimum withdrawal amount] TON
 * **Network Fee**: A small network fee is deducted from your withdrawal to cover blockchain transaction costs
 * **Platform Fee**: \[Insert details about any platform fees, if applicable]
-
-\[INSERT FEE STRUCTURE TABLE]
 
 ### Troubleshooting
 
@@ -82,8 +73,6 @@ If you encounter issues with your withdrawal:
    * Insufficient balance (including fees)
    * Incorrect wallet address
    * Network congestion
-
-\[INSERT TROUBLESHOOTING DECISION TREE]
 
 ### Frequently Asked Questions
 

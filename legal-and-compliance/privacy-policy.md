@@ -47,7 +47,7 @@ Depending on your location, you may have the following rights regarding your per
 * **Deletion**: Request deletion of your personal information.
 * **Objection**: Object to the processing of your personal information in certain circumstances.
 
-To exercise these rights, please contact us at privacy@tonpools.com.
+To exercise these rights, please contact us at [hello@tonpools.com](mailto:hello@tonpools.com).
 
 ### 7. International Data Transfers
 
@@ -63,7 +63,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ### 10. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at privacy@tonpools.com.
+If you have any questions or concerns about this Privacy Policy, please contact us at [hello@tonpools.com](mailto:hello@tonpools.com).
 
 ***
 

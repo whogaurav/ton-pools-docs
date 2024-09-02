@@ -1,10 +1,14 @@
 # Vision and Mission
 
-**Our Vision**\
-At TON Pools, we envision a future where saving and investing in cryptocurrencies goes beyond being merely secure and profitable—it becomes an engaging and rewarding experience accessible to everyone. We aim to bridge the gap between traditional savings methods and the dynamic world of blockchain technology by offering innovative solutions that democratize financial opportunities. Our vision aligns with the broader SAVE ecosystem's goal of empowering individuals to achieve financial freedom and build generational wealth through digital asset ownership.
+At TON Pools, we envision a future where saving and investing in cryptocurrencies goes beyond being merely secure and profitable—it becomes an engaging and rewarding experience accessible to everyone.&#x20;
 
-**Our Mission**\
-Our mission is to:
+We aim to bridge the gap between traditional savings methods and the dynamic world of blockchain technology by offering innovative solutions that democratize financial opportunities.&#x20;
+
+Our vision aligns with the broader [SAVE ecosystem's](https://save.foundation/) goal of empowering individuals to achieve financial freedom and build generational wealth through digital asset ownership.
+
+
+
+### **Our Mission**
 
 * **Promote Financial Empowerment:** We strive to enhance financial literacy within the TON ecosystem by providing users with the tools and knowledge needed to make informed financial decisions.
 * **Encourage Positive Financial Habits:** We incentivise regular saving and staking habits among crypto users by integrating gamification elements and no-loss prize-linked staking pools, making the process enjoyable and engaging.

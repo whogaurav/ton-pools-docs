@@ -7,11 +7,8 @@
 * [What is TON Pools](introduction/what-is-ton-pools.md)
 * [Vision and Mission](introduction/vision-and-mission.md)
 * [Key Features](introduction/key-features.md)
-
-## Getting Started
-
-* [Prerequisites](getting-started/prerequisites.md)
-* [Quick Start Guide](getting-started/quick-start-guide.md)
+* [Quick Start](introduction/quick-start.md)
+* [Save Points](introduction/save-points.md)
 
 ## Core Concepts
 
@@ -22,8 +19,7 @@
 
 ## User Guide
 
-* [Depositing TON](user-guide/depositing-ton.md)
-* [Participating in Prize Draws](user-guide/participating-in-prize-draws.md)
+* [Get Started](user-guide/depositing-ton.md)
 * [Withdrawing Funds](user-guide/withdrawing-funds.md)
 * [Referral System](user-guide/referral-system.md)
 

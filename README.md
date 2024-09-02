@@ -7,7 +7,7 @@ TON Pools is a decentralised application (dapp) on the TON Blockchain that bring
 ## Quick Links
 
 * [What is TON Pools?](introduction/what-is-ton-pools.md)
-* [Getting Started](getting-started/quick-start-guide.md)
+* [Getting Started](introduction/quick-start.md)
 * [Core Concepts](core-concepts/no-loss-prize-linked-staking.md)
 * [User Guide](broken-reference)
 

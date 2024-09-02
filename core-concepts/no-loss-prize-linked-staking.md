@@ -11,7 +11,7 @@ No-Loss Prize-Linked Staking is the core concept behind TON Pools. It combines t
 5. **Regular Draws**: Weekly draws distribute prizes to lucky winners.
 6. **No Loss of Principal**: Users can withdraw their original deposits at any time.
 
-## Classis Pools
+## Classic Pools
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Classic Pools</p></figcaption></figure>
 

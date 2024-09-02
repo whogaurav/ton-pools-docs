@@ -7,7 +7,7 @@ TON Pools now features the **SAVE Points System.**
 * **Earn Points for Every Action**: Accumulate SAVE Points for a variety of actions on the platform, from staking TON tokens to engaging with the community.
 * **Unlock Rewards**: Use SAVE Points to access exclusive rewards, participate in future lucky draws, and potentially qualify for airdrop campaigns.
 * **Refer and Earn**\
-  Continuously earn SAVE Points by referring others to TON Pools. Both you (the referrer) and the new user (the referee) earn points for sign-ups and staking activities. [Learn more](../user-guide/refer-and-earn.md) about the Perpetual Refer and Earn System and start maximizing your earnings today!
+  Continuously earn SAVE Points by referring others to TON Pools. Both you (the referrer) and the new user (the referee) earn points for sign-ups and staking activities. [Learn more](../user-guide/referral-system.md) about the Perpetual Refer and Earn System and start maximizing your earnings today!
 
 ### **Ways to Earn SAVE Points**
 

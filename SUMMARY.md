@@ -20,13 +20,13 @@
 
 * [Get Started](user-guide/depositing-ton.md)
 * [Withdrawing Funds](user-guide/withdrawing-funds.md)
-* [Refer & Earn](user-guide/refer-and-earn.md)
+* [Refer & Earn](user-guide/referral-system.md)
 
 ## Technical Architecture
 
 * [Smart Contract Overview](technical-architecture/smart-contract-overview.md)
-* [Contract Addresses](technical-architecture/contract-addresses.md)
-* [Security Considerations](technical-architecture/security-considerations.md)
+* [Contract Addresses](smart-contracts/contract-addresses.md)
+* [Security Considerations](smart-contracts/security-considerations.md)
 
 ## Tokenomics
 
@@ -35,13 +35,9 @@
 ## Community and Support
 
 * [Help & Support](community-and-support/help-and-support.md)
-* [Social Media Channels](community-and-support/social-media-channels.md)
 * [Bug Reporting](community-and-support/bug-reporting.md)
 
 ## Legal and Compliance
 
 * [Terms of Service](legal-and-compliance/terms-of-service.md)
 * [Privacy Policy](legal-and-compliance/privacy-policy.md)
-* [Regulatory Compliance](legal-and-compliance/regulatory-compliance.md)
-* [Glossary](legal-and-compliance/glossary.md)
-* [Changelog](legal-and-compliance/changelog.md)

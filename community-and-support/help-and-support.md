@@ -20,7 +20,7 @@ Need assistance with TON Pools? Our Help & Support resources are here to guide y
 
 #### Additional Support Options
 
-* **Bug Reporting**: Encountered a bug? Visit our Bug Reporting page to learn how to submit a report and help us improve TON Pools.
+* **Bug Reporting**: Encountered a bug? Visit our [Bug Reporting page](bug-reporting.md) to learn how to submit a report and help us improve TON Pools.
 * **Community Forums**: Join our community forums to connect with other users, share tips, and discuss strategies.
 * **Live Chat**: For real-time assistance, use our live chat feature available on the [Support Center](https://tonpools.zendesk.com/hc/en-us) page.
 

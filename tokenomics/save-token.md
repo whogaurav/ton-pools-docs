@@ -1,37 +1,28 @@
 # $SAVE Token
 
-The $SAVE token is the native utility token of the TON Pools ecosystem. For comprehensive and up-to-date information about the $SAVE token, please visit the official $SAVE token website:
+### $SAVE Token Overview
 
-[**https://savez.com**](https://savez.com)
+The $SAVE token will be the native utility token of the TON Pools ecosystem, offering multiple functionalities and benefits. Although the token is not yet launched, users can start accumulating SAVE Points now to potentially earn $SAVE tokens in future airdrop campaigns.
 
-## Quick Overview
+For more details on the upcoming $SAVE token, stay tuned to our official channels.
 
-* **Name**: SAVE
-* **Symbol**: $SAVE
-* **Blockchain**: TON
+#### Start Earning with the SAVE Points System
 
-## Key Information Available on savezapp.co
+TON Pools features the **SAVE Points System**, allowing users to earn points for various actions:
 
-1. **Token Utility**
-2. **Token Distribution**
-3. **Tokenomics**
-4. **Governance Participation**
-5. **Acquisition Methods**
-6. **Real-time Statistics**
-7. **Roadmap**
+* **Earn Points for Every Action**: Accumulate SAVE Points by staking TON tokens, participating in community activities, and more.
+* **Refer and Earn**: Continuously earn SAVE Points by referring others to TON Pools. Both the referrer and the referee earn points for sign-ups and staking activities. Learn more about the Perpetual Refer and Earn System and maximize your points.
 
-## Integration with TON Pools
+#### Ways to Earn SAVE Points
 
-Within the TON Pools ecosystem, $SAVE token is used for:
+* **Staking TON Milestones**: Earn SAVE Points as you reach specific staking milestones on the platform.
+* **Community Engagement**: Participate in community events and activities to earn additional points.
 
-* Staking to boost prize draw chances
-* Voting on protocol upgrades and new features
-* Accessing exclusive high-yield pools
+#### Future Opportunities with SAVE Points
 
-For specific details on using $SAVE within TON Pools, please refer to our [User Guide](../user-guide/using-save-token.md).
+* **Participate in Airdrops**: SAVE Points will be key for eligibility in future airdrop campaigns, providing additional ways to earn rewards.
+* **Exclusive Features**: Use SAVE Points to purchase lucky draw tickets and access exclusive features in future versions of the project (v2).
 
-***
+To learn more about earning and using SAVE Points, [click here](../introduction/save-points.md).
 
-For the most accurate and current information regarding the $SAVE token, always refer to [https://savez.com](https://savez.com).
-
-Stay updated with the latest $SAVE token news and announcements by following our official channels listed in the [Community and Support](../community-and-support/social-media-channels.md) section.
+Stay updated on the latest developments by following our official channels.

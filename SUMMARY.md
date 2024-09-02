@@ -13,7 +13,6 @@
 ## Core Concepts
 
 * [No-Loss Prize-Linked Staking](core-concepts/no-loss-prize-linked-staking.md)
-* [TON Blockchain Integration](core-concepts/ton-blockchain-integration.md)
 * [Prize Pool Mechanics](core-concepts/prize-pool-mechanics.md)
 * [Validator Yield Distribution](core-concepts/validator-yield-distribution.md)
 
@@ -21,48 +20,22 @@
 
 * [Get Started](user-guide/depositing-ton.md)
 * [Withdrawing Funds](user-guide/withdrawing-funds.md)
-* [Referral System](user-guide/referral-system.md)
+* [Refer & Earn](user-guide/refer-and-earn.md)
 
 ## Technical Architecture
 
 * [Smart Contract Overview](technical-architecture/smart-contract-overview.md)
-* [Frontend Architecture](technical-architecture/frontend-architecture.md)
-* [Backend Services](technical-architecture/backend-services.md)
-* [TON Blockchain Integration](technical-architecture/ton-blockchain-integration.md)
-
-## Smart Contracts
-
-* [Contract Addresses](smart-contracts/contract-addresses.md)
-* [ABI and Interfaces](smart-contracts/abi-and-interfaces.md)
-* [Function Descriptions](smart-contracts/function-descriptions.md)
-* [Security Considerations](smart-contracts/security-considerations.md)
-
-## API Reference
-
-* [Endpoints](api-reference/endpoints.md)
-* [Request/Response Formats](api-reference/request-response-formats.md)
-* [Authentication](api-reference/authentication.md)
-* [Rate Limiting](api-reference/rate-limiting.md)
+* [Contract Addresses](technical-architecture/contract-addresses.md)
+* [Security Considerations](technical-architecture/security-considerations.md)
 
 ## Tokenomics
 
 * [$SAVE Token](tokenomics/save-token.md)
-* [Token Utility](tokenomics/token-utility.md)
-* [Distribution Model](tokenomics/distribution-model.md)
-* [Governance](tokenomics/governance.md)
-
-## Roadmap
-
-* [Current Phase](roadmap/current-phase.md)
-* [Upcoming Features](roadmap/upcoming-features.md)
-* [Long-term Vision](roadmap/long-term-vision.md)
-* [FAQ](roadmap/faq.md)
 
 ## Community and Support
 
+* [Help & Support](community-and-support/help-and-support.md)
 * [Social Media Channels](community-and-support/social-media-channels.md)
-* [Community Guidelines](community-and-support/community-guidelines.md)
-* [How to Contribute](community-and-support/how-to-contribute.md)
 * [Bug Reporting](community-and-support/bug-reporting.md)
 
 ## Legal and Compliance

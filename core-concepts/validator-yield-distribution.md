@@ -17,14 +17,6 @@ The yield generated from staking is distributed as follows:
 * **Platform Sustainability (20%)**: A portion is used to maintain and improve the TON Pools platform.
 * **Validator Fee (10%)**: Validators receive a fee for their services.
 
-## Prize Pool Allocation
-
-The prize pool portion of the yield is further divided:
-
-* **Weekly Prizes (80%)**: Distributed through regular weekly draws.
-* **Special Events (15%)**: Reserved for special promotional events and larger, less frequent draws.
-* **Community Initiatives (5%)**: Allocated for community-driven projects and governance decisions.
-
 ## Yield Rate Factors
 
 Several factors can affect the yield rate:
@@ -34,10 +26,6 @@ Several factors can affect the yield rate:
 3. Validator performance and uptime
 4. TON network upgrades and protocol changes
 
-## Transparency and Reporting
 
-* Real-time yield rates are displayed on the TON Pools dashboard.
-* Weekly yield reports are published for full transparency.
-* Smart contract interactions related to yield distribution are verifiable on-chain.
 
 Understanding validator yield distribution helps you appreciate how your deposits contribute to the TON network's security while generating exciting prize opportunities. It's a win-win for both individual users and the broader TON ecosystem!

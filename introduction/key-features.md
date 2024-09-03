@@ -21,7 +21,7 @@ TON Pools offers a unique blend of features designed to make saving and staking 
 5. **Transparent Operations**
    * All transactions recorded on the TON blockchain
    * Open-source smart contracts
-   * Regular audits and security checks
+   * Regular security checks
 6. **Flexible Staking Options**
    * Multiple pool sizes to choose from
    * Varying lock-up periods for higher chances to win

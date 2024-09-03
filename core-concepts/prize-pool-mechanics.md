@@ -42,7 +42,8 @@ Understanding how prize pools work is crucial to appreciating the value and exci
 
 * Random number generation for prize draws uses verifiable random functions (VRF) on the blockchain.
 * All transactions and draws are recorded on-chain for full transparency.
-* Smart contracts governing the process are open-source and audited.
+
+
 
 
 

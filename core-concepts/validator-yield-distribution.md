@@ -13,9 +13,8 @@ The validator yield is a crucial component of TON Pools' prize-linked savings mo
 
 The yield generated from staking is distributed as follows:
 
-* **Prize Pool (70%)**: The majority of the yield goes into the prize pool for user rewards.
+* **Prize Pool (80%)**: The majority of the yield goes into the prize pool for user rewards.
 * **Platform Sustainability (20%)**: A portion is used to maintain and improve the TON Pools platform.
-* **Validator Fee (10%)**: Validators receive a fee for their services.
 
 ## Yield Rate Factors
 

@@ -26,8 +26,8 @@ Understanding how prize pools work is crucial to appreciating the value and exci
 ## Prize Distribution
 
 * Regular draws (typically weekly) determine winners.
-* Multiple prizes of varying sizes may be offered.
-* Prize structure example:
+* Based on varying sizes, single winner pool or multiple winner pool prizes may be offered.
+* Prize structure example (every pool may have different structure):
   * 1 Grand Prize: 50% of pool
   * 5 Runner-up Prizes: 5% each
   * 50 Smaller Prizes: 0.5% each
@@ -42,9 +42,5 @@ Understanding how prize pools work is crucial to appreciating the value and exci
 
 * Random number generation for prize draws uses verifiable random functions (VRF) on the blockchain.
 * All transactions and draws are recorded on-chain for full transparency.
-
-
-
-
 
 Understanding these mechanics helps you make informed decisions about your participation in TON Pools. Remember, while the chance of winning adds excitement, the security of your principal deposit ensures that participating is always a win-win!

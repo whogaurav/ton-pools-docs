@@ -26,7 +26,7 @@ Understanding how prize pools work is crucial to appreciating the value and exci
 ## Prize Distribution
 
 * Regular draws (typically weekly) determine winners.
-* Based on varying sizes, single winner pool or multiple winner pool prizes may be offered.
+* Depending on the pool size, prizes may be awarded either to a single winner or to multiple winners.
 * Prize structure example (every pool may have different structure):
   * 1 Grand Prize: 50% of pool
   * 5 Runner-up Prizes: 5% each
